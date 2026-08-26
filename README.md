@@ -378,9 +378,9 @@ Potential improvements include:
 
 ### Connect With Me
 
-* GitHub: `https://github.com/Vikashchauhan-dev`
-* LinkedIn: `https://www.linkedin.com/in/vikashchauhan01`
-* Email: `Vikashchauhan10211@gmail.com`
+* GitHub: https://github.com/Vikashchauhan-dev
+* LinkedIn: https://www.linkedin.com/in/vikashchauhan01
+* Email: Vikashchauhan10211@gmail.com
 
 ---
 
