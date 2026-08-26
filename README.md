@@ -126,11 +126,10 @@ The project follows the following analytical workflow:
 
 # 📸 Dashboard Preview
 
-## Dashboard Overview
-
 The dashboard provides an executive-level overview of pizza sales performance.
 
 ![Dashboard](Dashboard_Preview.png)
+## Dashboard Overview
 ![Dashboard](Dashboard_Overview.png)
 
 ### Main KPIs
