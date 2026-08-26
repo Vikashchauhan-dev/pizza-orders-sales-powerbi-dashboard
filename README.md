@@ -378,11 +378,9 @@ Potential improvements include:
 
 ### Connect With Me
 
-* GitHub: `https://github.com/YOUR_USERNAME`
-* LinkedIn: `https://www.linkedin.com/in/YOUR_USERNAME/`
-* Email: `YOUR_EMAIL@example.com`
-
-> Replace the placeholder GitHub, LinkedIn, and email information with your actual profile details before publishing.
+* GitHub: `https://github.com/Vikashchauhan-dev`
+* LinkedIn: `https://www.linkedin.com/in/vikashchauhan01`
+* Email: `Vikashchauhan10211@gmail.com`
 
 ---
 
